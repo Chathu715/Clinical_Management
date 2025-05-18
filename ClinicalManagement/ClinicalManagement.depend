@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706181844 source:c:\users\pc\desktop\clinical system\clinicalmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<conio.h>
+
